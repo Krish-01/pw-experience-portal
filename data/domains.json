@@ -1,0 +1,968 @@
+{
+    "data": [
+        {
+            "_id": "60fc4dfb800c562a083bc616",
+            "title": "Traffic Surveillance",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc618",
+            "title": "Warehouse",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc619",
+            "title": "Banking",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc61a",
+            "title": "Finance",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc61c",
+            "title": "Insurance",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc61b",
+            "title": "Public welfare",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc617",
+            "title": "Industrial Automation",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc61e",
+            "title": "Safety and Security",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc61f",
+            "title": "Media",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc622",
+            "title": "Customer Relationship",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc623",
+            "title": "Marketing",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc61d",
+            "title": "Education",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc620",
+            "title": "Manufacturing",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc621",
+            "title": "Healthcare",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc624",
+            "title": "Public Safety",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc625",
+            "title": "Banking",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc626",
+            "title": "Transport",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc628",
+            "title": "Networking",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc629",
+            "title": "Healthcare",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc62a",
+            "title": "Education",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc627",
+            "title": "Industrial Automation",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc62b",
+            "title": "Safety and Security",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc62c",
+            "title": "Agriculture",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc62d",
+            "title": "Data Extraction",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc62e",
+            "title": "Shopping",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc62f",
+            "title": "Education",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc630",
+            "title": "Blogger",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc631",
+            "title": "Travel",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc632",
+            "title": "Ecommerce",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc633",
+            "title": "Entertainment",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc634",
+            "title": "Freelancing",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc635",
+            "title": "Healthcare",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc4dfb800c562a083bc637",
+            "title": "Communication",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-24T17:29:31.852Z",
+            "updatedAt": "2021-07-24T17:29:31.852Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc72bab896f005c23cc1e1",
+            "title": "Automobile",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "60fc72c0b896f005c23cc1e2",
+            "title": "Healthcare",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "60fc72cab896f005c23cc1e3",
+            "title": "Agriculture",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "60fc72d5b896f005c23cc1e4",
+            "title": "Home Automation",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "60fc73e5b896f005c23cc1e6",
+            "title": "Public Safety",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "60fc740bb896f005c23cc1e7",
+            "title": "Surveillance",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "60fc741db896f005c23cc1e8",
+            "title": "Education",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "60fc7438b896f005c23cc1e9",
+            "title": "Human Resource",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "60fc7469b896f005c23cc1ea",
+            "title": "Safety and Security",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "60fc749fb896f005c23cc1ec",
+            "title": "Education",
+            "techId": "60fc702cb896f005c23cc1e0",
+            "__v": 0
+        },
+        {
+            "_id": "60fc74aab896f005c23cc1ed",
+            "title": "Human Resource",
+            "techId": "60fc702cb896f005c23cc1e0",
+            "__v": 0
+        },
+        {
+            "_id": "60fc74b3b896f005c23cc1ee",
+            "title": "Home Automation",
+            "techId": "60fc702cb896f005c23cc1e0",
+            "__v": 0
+        },
+        {
+            "_id": "60fc750db896f005c23cc1ef",
+            "title": "Research",
+            "techId": "60fc72e9b896f005c23cc1e5",
+            "__v": 0
+        },
+        {
+            "_id": "60fc756cb896f005c23cc1f0",
+            "title": "Aviation",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "__v": 0
+        },
+        {
+            "_id": "60fc75bfb896f005c23cc1f1",
+            "title": "Ecommerce",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc75c7b896f005c23cc1f2",
+            "title": "Infra",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc75f4b896f005c23cc1f3",
+            "title": "Retail",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc75feb896f005c23cc1f4",
+            "title": "Insurance",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc7618b896f005c23cc1f5",
+            "title": "Cyber Security",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc7627b896f005c23cc1f6",
+            "title": "Chemical",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc7638b896f005c23cc1f7",
+            "title": "Sales and Marketing",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc765bb896f005c23cc1f9",
+            "title": "Aviation",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc7662b896f005c23cc1fa",
+            "title": "Prosthetics",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc766db896f005c23cc1fb",
+            "title": "Oil and Energy",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc7678b896f005c23cc1fc",
+            "title": "Aerospace",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc7681b896f005c23cc1fd",
+            "title": "Supply Chain",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc768ab896f005c23cc1fe",
+            "title": "Tourism",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc7692b896f005c23cc1ff",
+            "title": "Human Resource",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc7699b896f005c23cc200",
+            "title": "Logistics",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fc769fb896f005c23cc201",
+            "title": "Drug Discovery",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "60fdabfc599d9f2a80db7ce4",
+            "title": "Finance",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "createdAt": "2021-07-24T17:29:31.851Z",
+            "updatedAt": "2021-07-24T17:29:31.851Z",
+            "__v": 0
+        },
+        {
+            "_id": "6103e3e07366b941446cdced",
+            "title": "Transport",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-30T11:34:56.514Z",
+            "updatedAt": "2021-07-30T11:34:56.514Z",
+            "__v": 0
+        },
+        {
+            "_id": "6103e3e17366b941446cdd21",
+            "title": "Finance",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-30T11:34:57.026Z",
+            "updatedAt": "2021-07-30T11:34:57.026Z",
+            "__v": 0
+        },
+        {
+            "_id": "6103e3e17366b941446cdd49",
+            "title": "Sales",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-30T11:34:57.442Z",
+            "updatedAt": "2021-07-30T11:34:57.442Z",
+            "__v": 0
+        },
+        {
+            "_id": "6103e3e17366b941446cdd69",
+            "title": "Software",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-30T11:34:57.793Z",
+            "updatedAt": "2021-07-30T11:34:57.793Z",
+            "__v": 0
+        },
+        {
+            "_id": "6103e3e27366b941446cdd89",
+            "title": "Insurance",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-30T11:34:58.159Z",
+            "updatedAt": "2021-07-30T11:34:58.159Z",
+            "__v": 0
+        },
+        {
+            "_id": "6103e3e27366b941446cdd9d",
+            "title": "Industry Automation",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-30T11:34:58.397Z",
+            "updatedAt": "2021-07-30T11:34:58.397Z",
+            "__v": 0
+        },
+        {
+            "_id": "6103e3e37366b941446cddd9",
+            "title": "Social",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "createdAt": "2021-07-30T11:34:59.079Z",
+            "updatedAt": "2021-07-30T11:34:59.079Z",
+            "__v": 0
+        },
+        {
+            "_id": "610d5926316cc18347f905aa",
+            "title": "Finance, Insurance and Banking",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d592d316cc18347f905ab",
+            "title": "Retail and Sales",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d593a316cc18347f905ac",
+            "title": "Banking Insurance and Finance",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d5941316cc18347f905ad",
+            "title": "Film and Entertainment",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d594e316cc18347f905af",
+            "title": "Ecommerce",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d5956316cc18347f905b0",
+            "title": "Technology",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d596b316cc18347f905b1",
+            "title": "Food Industry",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d5998316cc18347f905b2",
+            "title": "Agriculture",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d59a7316cc18347f905b3",
+            "title": "Energy and Petroleum",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d5df4316cc18347f905c1",
+            "title": "Telecom",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d5e03316cc18347f905c2",
+            "title": "Transportation and Communication",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d5e16316cc18347f905c3",
+            "title": "Business Analytics",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d5e31316cc18347f905c4",
+            "title": "Aviation",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d5e48316cc18347f905c5",
+            "title": "Education",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d65a9316cc18347f905d5",
+            "title": "Sports",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d665e316cc18347f905db",
+            "title": "Healthcare",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d66e0316cc18347f905e0",
+            "title": "Human Resource",
+            "techId": "610d5918316cc18347f905a9",
+            "__v": 0
+        },
+        {
+            "_id": "610d6b5a316cc18347f905ef",
+            "title": "Surveillance",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "610fa38e316cc18347f905fd",
+            "title": "Utility",
+            "techId": "60fc4cfbc653fa3fc0c9183b",
+            "__v": 0
+        },
+        {
+            "_id": "611012c2316cc18347f905ff",
+            "title": "Customer Relationship",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "61101341316cc18347f90601",
+            "title": "HR",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "__v": 0
+        },
+        {
+            "_id": "61101476316cc18347f90607",
+            "title": "Telecom",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "611014c6316cc18347f90609",
+            "title": "Banking and Finance",
+            "techId": "60fc702cb896f005c23cc1e0",
+            "__v": 0
+        },
+        {
+            "_id": "6110151b316cc18347f9060c",
+            "title": "Tourism",
+            "techId": "60fc702cb896f005c23cc1e0",
+            "__v": 0
+        },
+        {
+            "_id": "61101550316cc18347f9060e",
+            "title": "Tourism",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "__v": 0
+        },
+        {
+            "_id": "611015e9316cc18347f90613",
+            "title": "Prosthetic",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "__v": 0
+        },
+        {
+            "_id": "6110164a316cc18347f90615",
+            "title": "Media",
+            "techId": "60fc702cb896f005c23cc1e0",
+            "__v": 0
+        },
+        {
+            "_id": "611016be316cc18347f90618",
+            "title": "Transport",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "__v": 0
+        },
+        {
+            "_id": "61101989316cc18347f90625",
+            "title": "Survillance",
+            "techId": "60fc4cd7c653fa3fc0c91839",
+            "__v": 0
+        },
+        {
+            "_id": "61102528316cc18347f90628",
+            "title": "Marketing",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "61102d52316cc18347f9063a",
+            "title": "Transport",
+            "techId": "60fc6fc9b896f005c23cc1df",
+            "__v": 0
+        },
+        {
+            "_id": "6110b0ef316cc18347f9063f",
+            "title": "Media",
+            "techId": "60fc4ce9c653fa3fc0c9183a",
+            "__v": 0
+        },
+        {
+            "_id": "620a13eff5e35702e69a8aff",
+            "title": "Virtual Reality",
+            "techId": "620a13cbf5e35702e69a8afe",
+            "__v": 0
+        },
+        {
+            "_id": "6221ecfbf5e35702e69a8b48",
+            "title": "Big Data",
+            "techId": "6221ecdcf5e35702e69a8b47",
+            "__v": 0
+        },
+        {
+            "_id": "62220674f5e35702e69a8b51",
+            "title": "Education",
+            "techId": "62220669f5e35702e69a8b50",
+            "__v": 0
+        },
+        {
+            "_id": "622206a7f5e35702e69a8b53",
+            "title": "Industry",
+            "techId": "62220669f5e35702e69a8b50",
+            "__v": 0
+        },
+        {
+            "_id": "622206d9f5e35702e69a8b55",
+            "title": "Sports ",
+            "techId": "62220669f5e35702e69a8b50",
+            "__v": 0
+        },
+        {
+            "_id": "62220764f5e35702e69a8b58",
+            "title": "Agriculture",
+            "techId": "62220669f5e35702e69a8b50",
+            "__v": 0
+        },
+        {
+            "_id": "622207c4f5e35702e69a8b5c",
+            "title": "Healthcare",
+            "techId": "62220669f5e35702e69a8b50",
+            "__v": 0
+        },
+        {
+            "_id": "62220826f5e35702e69a8b5f",
+            "title": "Food",
+            "techId": "62220669f5e35702e69a8b50",
+            "__v": 0
+        },
+        {
+            "_id": "6222085cf5e35702e69a8b61",
+            "title": "Public safety",
+            "techId": "62220669f5e35702e69a8b50",
+            "__v": 0
+        },
+        {
+            "_id": "6222092cf5e35702e69a8b68",
+            "title": "Transport ",
+            "techId": "62220669f5e35702e69a8b50",
+            "__v": 0
+        },
+        {
+            "_id": "62220af8f5e35702e69a8b77",
+            "title": "Banking",
+            "techId": "62220669f5e35702e69a8b50",
+            "__v": 0
+        },
+        {
+            "_id": "62220bbbf5e35702e69a8b7f",
+            "title": "Entertainment",
+            "techId": "62220669f5e35702e69a8b50",
+            "__v": 0
+        },
+        {
+            "_id": "632d910c2d647258162c54a6",
+            "title": "Frontend Development",
+            "techId": "632d37822d647258162c53f8",
+            "__v": 0
+        },
+        {
+            "_id": "635120ef2d647258162c5a6d",
+            "title": "Education",
+            "techId": "6350e8072d647258162c5a59",
+            "__v": 0
+        },
+        {
+            "_id": "635128922d647258162c5a8a",
+            "title": "Ecommerce",
+            "techId": "6350e8072d647258162c5a59",
+            "__v": 0
+        },
+        {
+            "_id": "63512b7c2d647258162c5aa6",
+            "title": "Finance",
+            "techId": "6350e8072d647258162c5a59",
+            "__v": 0
+        },
+        {
+            "_id": "63512bdb2d647258162c5ab2",
+            "title": "Entertainment",
+            "techId": "6350e8072d647258162c5a59",
+            "__v": 0
+        },
+        {
+            "_id": "63512c362d647258162c5abd",
+            "title": "Music",
+            "techId": "6350e8072d647258162c5a59",
+            "__v": 0
+        },
+        {
+            "_id": "635139ba2d647258162c5ae3",
+            "title": "Education",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        },
+        {
+            "_id": "635139cb2d647258162c5ae6",
+            "title": "Insurance",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        },
+        {
+            "_id": "635139d92d647258162c5ae9",
+            "title": "Healthcare",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        },
+        {
+            "_id": "635139e82d647258162c5aec",
+            "title": "Food",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        },
+        {
+            "_id": "63513a122d647258162c5aef",
+            "title": "Travel",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        },
+        {
+            "_id": "63513de92d647258162c5b09",
+            "title": "Social Media",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "63513e342d647258162c5b12",
+            "title": "Finance",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "635151c62d647258162c5b1e",
+            "title": "Education",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "6351540b2d647258162c5b27",
+            "title": "Sports",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "6351594d2d647258162c5b38",
+            "title": "Healthcare",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "63515af02d647258162c5b41",
+            "title": "Ecommerce",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "63515e5a2d647258162c5b50",
+            "title": "Agriculture",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "63515ee12d647258162c5b59",
+            "title": "Food",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "63515fbf2d647258162c5b65",
+            "title": "Security",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "6351606e2d647258162c5b79",
+            "title": "Health & Fitness",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "635161022d647258162c5b88",
+            "title": "Travel & Tourism",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "6351614e2d647258162c5b91",
+            "title": "Freelance",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "6351622b2d647258162c5ba3",
+            "title": "Information Technology",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "635162c92d647258162c5bae",
+            "title": "Transport",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "6351640d2d647258162c5bc3",
+            "title": "Entertainment",
+            "techId": "6350e7ef2d647258162c5a56",
+            "__v": 0
+        },
+        {
+            "_id": "6368eea90eacb48524c98be4",
+            "title": "Banking",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        },
+        {
+            "_id": "6368eec60eacb48524c98bec",
+            "title": "Sports",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        },
+        {
+            "_id": "6368ef820eacb48524c98bfe",
+            "title": "Ecommerce",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        },
+        {
+            "_id": "6368eff10eacb48524c98c0d",
+            "title": "Communication",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        },
+        {
+            "_id": "6368effa0eacb48524c98c13",
+            "title": "Entertainment",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        },
+        {
+            "_id": "6368f0570eacb48524c98c1f",
+            "title": "Freelance",
+            "techId": "6350dce12d647258162c5a46",
+            "__v": 0
+        }
+    ]
+}

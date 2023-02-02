@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "_id": "60fc4cd7c653fa3fc0c91839",
+            "title": "Deep Learning",
+            "updatedAt": "2021-08-04T21:15:17.281Z"
+        },
+        {
+            "_id": "60fc4ce9c653fa3fc0c9183a",
+            "title": "Machine Learning"
+        },
+        {
+            "_id": "60fc4cfbc653fa3fc0c9183b",
+            "title": "Development",
+            "updatedAt": "2021-08-06T04:03:14.116Z"
+        },
+        {
+            "_id": "60fc6fc9b896f005c23cc1df",
+            "title": "Computer Vision",
+            "createdAt": "2021-07-24T19:53:45.584Z",
+            "updatedAt": "2021-07-24T19:53:45.584Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc702cb896f005c23cc1e0",
+            "title": "NLP",
+            "createdAt": "2021-07-24T19:55:24.682Z",
+            "updatedAt": "2021-07-24T19:55:24.682Z",
+            "__v": 0
+        },
+        {
+            "_id": "60fc72e9b896f005c23cc1e5",
+            "title": "Deep Reinforcement Learning",
+            "createdAt": "2021-07-24T20:07:05.915Z",
+            "updatedAt": "2021-07-24T20:07:05.915Z",
+            "__v": 0
+        },
+        {
+            "_id": "610d5918316cc18347f905a9",
+            "title": "Business Intelligence",
+            "createdAt": "2021-08-06T15:45:28.125Z",
+            "updatedAt": "2021-08-06T15:45:28.125Z",
+            "__v": 0
+        },
+        {
+            "_id": "620a13cbf5e35702e69a8afe",
+            "title": "Virtual Reality",
+            "createdAt": "2022-02-14T08:33:15.585Z",
+            "updatedAt": "2022-02-14T08:33:15.585Z",
+            "__v": 0
+        },
+        {
+            "_id": "6221ecdcf5e35702e69a8b47",
+            "title": "Big Data",
+            "createdAt": "2022-03-04T10:41:32.197Z",
+            "updatedAt": "2022-03-04T10:41:32.197Z",
+            "__v": 0
+        },
+        {
+            "_id": "62220669f5e35702e69a8b50",
+            "title": "Web Development",
+            "createdAt": "2022-03-04T12:30:33.135Z",
+            "updatedAt": "2022-03-04T12:30:33.135Z",
+            "__v": 0
+        },
+        {
+            "_id": "632d37822d647258162c53f8",
+            "title": "Blockchain",
+            "createdAt": "2022-09-23T04:35:14.823Z",
+            "updatedAt": "2022-09-23T04:35:14.823Z",
+            "__v": 0
+        },
+        {
+            "_id": "6350dce12d647258162c5a46",
+            "title": "Java",
+            "createdAt": "2022-10-20T05:30:09.157Z",
+            "updatedAt": "2022-10-20T05:30:09.157Z",
+            "__v": 0
+        },
+        {
+            "_id": "6350e7ef2d647258162c5a56",
+            "title": "Full Stack Javascript",
+            "createdAt": "2022-10-20T06:17:19.194Z",
+            "updatedAt": "2022-11-05T06:54:12.888Z",
+            "__v": 0
+        },
+        {
+            "_id": "6350e8072d647258162c5a59",
+            "title": "Frontend Javascript",
+            "createdAt": "2022-10-20T06:17:43.297Z",
+            "updatedAt": "2022-11-05T06:54:05.430Z",
+            "__v": 0
+        }
+    ]
+}
