@@ -4,6 +4,7 @@ from typing import Literal
 
 import pandas as pd
 import streamlit as st
+from utils.download_docs import download_project_doc
 
 # Page config
 st.set_page_config('View Projects', '🗂️', 'wide')
@@ -81,4 +82,13 @@ for item in sl_data:
         col3.metric('Difficulty', item['difficulty'])
 
         st.write(f"## :red[{item['projectTitle']}]")
-        st.write(f"#### 📌 [Project Documentaion]({item['link']})")
+        st.write(f"#### 📌 [Project Document]({item['link']})")
+
+        # Download button to download project document
+        if st.button('**⇩** Project Document', key=i):
+            # Decide the file extension
+            file_ext = '.docx' if 'docs.google.com' in item['link'] else '.pdf'
+
+            download_project_doc(url=item['link'],
+                                 filename=item['projectTitle'].rsplit(' (')[0] + file_ext)
+            st.balloons()
