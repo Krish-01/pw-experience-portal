@@ -33,7 +33,12 @@ filter_by = st.sidebar.selectbox('Filter By',
                                  ['Project', 'Domain', 'Technology'])
 
 # --- --- --- --- --- --- --- --- --- --- --- --- --- --- #
-temp_df = df
+sl_diff = st.sidebar.selectbox('Filter By Difficulty',
+                               ['-- None --', 'Beginner', 'Intermediate', 'Advanced'])
+
+# Add filter by difficulty of projects
+temp_df = df if sl_diff == '-- None --' else df.query('difficulty==@sl_diff')
+
 match filter_by:
     case 'Project':
         sl_tech = str(st.sidebar.selectbox('Select Technology',
